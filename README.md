@@ -2,7 +2,7 @@
 
 A modern, full-stack MERN blogging platform designed to empower readers, writers, and thinkers. Complete with complex state interactions, micro-animations, real-time feedback, and secure author dashboards.
 
-![Main Interface](https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop)
+
 
 ## 🌟 Key Features
 

@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "concurrently \"npm run dev\" \" npx nodemon ../Server/app.js\""
+    "start": "node init && concurrently \"npm run dev\" \" npx nodemon ../Server/app.js\""
   },
   "dependencies": {
     "@headlessui/react": "^2.2.9",
